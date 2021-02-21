@@ -4,3 +4,5 @@
 Predict the percentage of an student based on the no. of study hours.
 ### Task 2:
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+### Task 3:
+Exploratory Data Analysis - Retail
